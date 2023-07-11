@@ -5,3 +5,5 @@ Chapter 1,
  
  - in this day July 11 2023 (its 711 day though LOL)
  I'm learning GIT, to come or to follow up with the bootcamp
+ - the basics of GIT commands
+    - git add, git commit 
