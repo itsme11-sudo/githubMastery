@@ -3,4 +3,5 @@ ROAD TO MASTERY GIT
 Chapter 1,
  Learning to learn GIT commands
  
- 
+ - in this day July 11 2023 (its 711 day though LOL)
+ I'm learning GIT, to come or to follow up with the bootcamp
